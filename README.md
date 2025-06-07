@@ -67,7 +67,10 @@ DownloadXpert is a modern, professional download manager for Windows, designed a
   <br>
   <img src="https://raw.githubusercontent.com/bigboss821/DownloadXpert/refs/heads/main/chrome_35AYttazHf.png"/>
   <br>
-  <img src="https://github.com/bigboss821/DownloadXpert/blob/main/chrome_35AYttazHf.png?raw=true" alt="About Dialog" width="400"/>
+    <img src="https://raw.githubusercontent.com/bigboss821/DownloadXpert/refs/heads/main/chrome_35AYttazHf.png"/>
+  <br>
+  <img src="  <img src="https://raw.githubusercontent.com/bigboss821/DownloadXpert/refs/heads/main/chrome_35AYttazHf.png"/>
+  <br>" alt="About Dialog" width="400"/>
 </p>
 
 > _You can add more screenshots by replacing the dummyimage.com links above with your own images._
