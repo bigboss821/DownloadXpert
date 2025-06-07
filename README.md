@@ -105,8 +105,3 @@ INSTRUCTIONS:
 - Replace the dummyimage.com logo and screenshots with your real images when available.
 - Update badge links if your repo name or username changes.
 -->
-
-
----
-
-**DownloadXpert — The smart, modern way to manage your downloads.**
