@@ -1,8 +1,27 @@
 # DownloadXpert
 
-# DownloadXpert
+<!-- LOGO -->
+<p align="center">
+  <img src="https://dummyimage.com/120x120/2563eb/ffffff&text=DX" alt="DownloadXpert Logo" width="120" height="120"/>
+</p>
 
-**The Ultimate IDM Alternative for Windows**
+<h1 align="center">DownloadXpert</h1>
+<p align="center"><b>The Ultimate IDM Alternative for Windows</b></p>
+
+<!-- BADGES -->
+<p align="center">
+  <a href="https://github.com/bigboss821/DownloadXpert/releases/latest">
+    <img src="https://img.shields.io/github/v/release/bigboss821/DownloadXpert?label=Latest%20Release&style=for-the-badge" alt="Latest Release"/>
+  </a>
+  <a href="https://github.com/bigboss821/DownloadXpert/releases">
+    <img src="https://img.shields.io/github/downloads/bigboss821/DownloadXpert/total?style=for-the-badge" alt="Total Downloads"/>
+  </a>
+  <a href="https://github.com/bigboss821/DownloadXpert/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/bigboss821/DownloadXpert?style=for-the-badge" alt="License"/>
+  </a>
+  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge" alt="Platform"/>
+  <img src="https://img.shields.io/badge/Alternative%20to-IDM-orange?style=for-the-badge" alt="Alternative to IDM"/>
+</p>
 
 ---
 
@@ -39,10 +58,50 @@ DownloadXpert is a modern, professional download manager for Windows, designed a
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://dummyimage.com/600x350/10101a/00fff0&text=Main+UI+Screenshot" alt="Main UI" width="600"/>
+  <br>
+  <img src="https://dummyimage.com/400x300/10101a/e040fb&text=About+Dialog+Screenshot" alt="About Dialog" width="400"/>
+</p>
+
+> _You can add more screenshots by replacing the dummyimage.com links above with your own images._
+
+---
+
+## ⬇️ Download
+
+- **[Download Latest Release](https://github.com/bigboss821/DownloadXpert/releases/latest)**
+- Or see all releases: [Releases Page](https://github.com/bigboss821/DownloadXpert/releases)
+
+---
+
+## 🛠️ Installation
+
+1. Download the latest `.exe` or `.zip` from the [releases page](https://github.com/bigboss821/DownloadXpert/releases).
+2. Run the installer or extract and run `DownloadXpert.exe`.
+3. (Optional) Install the browser extension for Chrome, Firefox, or Edge for auto-capture.
+
+---
+
 ## 🔗 Learn More
 
 - [DownloadXpert on GitHub](https://github.com/bigboss821/DownloadXpert)
 - [Author: Kazi Asraful Alom Rabbe](https://bd.linkedin.com/in/asraful-alam-rabbe-bb8a21190)
+
+---
+
+**DownloadXpert — The smart, modern way to manage your downloads.**
+
+---
+
+<!--
+INSTRUCTIONS:
+- Replace the dummyimage.com logo and screenshots with your real images when available.
+- Update badge links if your repo name or username changes.
+-->
+
 
 ---
 
